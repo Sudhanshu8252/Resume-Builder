@@ -1,3 +1,0 @@
-JWT_SECRET = "any_random_secret"
-
-MONGODB_URI = "mongodb+srv://greatstack:Anshu4594@cluster0.kfc1fz3.mongodb.net"
