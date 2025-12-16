@@ -9,7 +9,7 @@ const generateToken = (userId) => {
 }
 // contoller for user registration
 
-import { User } from "lucide-react";
+//import { User } from "lucide-react";
 
 //POST : /api/users/register
 export  const registerUser = async (req, res) => {
